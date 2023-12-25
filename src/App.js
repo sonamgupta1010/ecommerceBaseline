@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      New React Will Learn Deployment
+      New React store Will Learn Deployment
     </div>
   );
 }
